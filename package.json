@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "chart.js": "^2.8.0",
+    "chartjs": "^0.3.24",
     "react": "^16.9.0",
+    "react-chartjs-2": "^2.7.6",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
