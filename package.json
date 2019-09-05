@@ -2,6 +2,7 @@
   "name": "stonks",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ssebs.github.io/stonks",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "chart.js": "^2.8.0",
